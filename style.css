@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+#card {
+  background-color: lightgray;
+}
+
+.profession {
+  color: dimgrey;
+  font-weight: 600;
+}
+
+.description {
+  font-size: 12px;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}
